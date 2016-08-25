@@ -1,0 +1,7 @@
+public class regreso{
+
+  private void valor;
+  
+  public void salir(){
+  }
+}
