@@ -14,6 +14,6 @@ public class Clase1 {
     private int nume1, num2;
     
     public void suma(){
-        System.out.println("Aqui se va a realiza una suma ");
+        System.out.println("Aqui se va a realiza una suma");
     }
 }
