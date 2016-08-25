@@ -16,7 +16,7 @@ public class Deber2IS2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("asdfghjk");
+        System.out.println("Hola Mundo e Ing XD");
     }
     
 }
