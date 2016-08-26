@@ -8,8 +8,4 @@ public class Clase1 {
     private String hola;
     
     String h = "Bienvenido"
-    
-    public void suma(){
-        
-    }
 }
